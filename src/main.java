@@ -1,0 +1,9 @@
+public class main {
+    public static void main(String[] args) throws Exception {
+        int balance = 2_000_000_000;
+        int transfer = 500_000_000;
+        int Outcome = balance + transfer;
+
+        System.out.println(Outcome);
+    }
+}
